@@ -10,15 +10,15 @@ html {
 .grains {
   margin: 0;
   padding: 0;
-
   list-style-type: none;
 }
 
 .grains li {
-
+  margin-bottom: 1.5rem;
 }
 
 .grains img {
+  float: left;
   width: 100px;
 }
 
